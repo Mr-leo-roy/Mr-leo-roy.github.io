@@ -43,6 +43,10 @@ body{
     text-decoration: none;
     color:white;
 }
+.h2>ul>li>a:hover{
+    box-shadow: inset 0px -2px 0px 0px red;    
+    color:red;
+}
 .h1top1{
     width: 50%;
     height: 100%;
